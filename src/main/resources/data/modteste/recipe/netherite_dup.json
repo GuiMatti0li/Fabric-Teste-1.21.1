@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 300,
+  "experience": 5.0,
+  "ingredient": {-
+    "item": "minecraft:diamond_block"
+  },
+  "result": {
+    "id": "minecraft:netherite_ingot"
+  }
+}

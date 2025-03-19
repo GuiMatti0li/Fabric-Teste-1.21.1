@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "tools",
+  "key":{
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "V": {
+      "item": "minecraft:glass"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "B": {
+      "tag": "minecraft:buttons"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "RVR",
+    "NBD",
+    "#G#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "modteste:rogue_combiner"
+  }
+}
