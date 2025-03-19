@@ -3,7 +3,7 @@
   "category": "misc",
   "cookingtime": 300,
   "experience": 5.0,
-  "ingredient": {-
+  "ingredient": {
     "item": "minecraft:diamond_block"
   },
   "result": {
